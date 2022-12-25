@@ -14,3 +14,4 @@ Bakery.all.each do |bakery|
 end
 
 puts "🌱 Done seeding!"
+
